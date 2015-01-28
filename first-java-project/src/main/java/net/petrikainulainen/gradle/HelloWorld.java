@@ -1,4 +1,4 @@
-package net.petrikainulainen.gradle;
+package net.cgureddygari.gradle;
 
 public class HelloWorld {
 
